@@ -195,7 +195,8 @@ Algorithm:
 # Conclusion
 
 This experiment demonstrated the applications of pointers in C++:
-        ✔ Difference between call by value and call by reference
-        ✔ Use of pointers for direct data manipulation
-        ✔ Practical problem-solving via a salary incrementer system
-        ✔ Understanding how memory addresses make programs more efficient
+
+            Difference between call by value and call by reference
+            Use of pointers for direct data manipulation
+            Practical problem-solving via a salary incrementer system
+            Understanding how memory addresses make programs more efficient
